@@ -1,3 +1,5 @@
+##Joaquin Andres Luis Fernando Proyecto 1
+
 ¿Cómo hicimos el programa?
 Objetivo del Programa: El objetivo fue crear un programa que pidiera al usuario varios datos (como su nombre, edad, peso y estatura), validara que no estuvieran vacíos y luego calculaba su Índice de Masa Corporal (IMC). Finalmente, clasificaba al usuario según su IMC en categorías específicas.
 Uso de input:
